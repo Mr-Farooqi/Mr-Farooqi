@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-farooqi&show_icons=true&locale=en" alt="mr-farooqi" /></p>
 
-<p><a href="https://www.buymeacoffee.com/Mr_Farooqi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mr_Farooqi" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/mdadil4078C> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mr_Farooqi" /></a></p><br><br>
