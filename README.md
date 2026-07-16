@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 &nbsp;Currently building **[FarooqiHubble](https://github.com/mr-farooqi)**
+- 🔭 &nbsp;Currently building **[Pingora](https://pingora-six.vercel.app/)**
 - 🌱 &nbsp;Learning **React, Python & Java**
 - 💡 &nbsp;Passionate about clean UI & user experience
 - 💬 &nbsp;Ask me anything — I'm always up for a chat!
