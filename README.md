@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Adil — aka Mr_Farooqi
+# 👋 Hey, I'm Adil —  Mr_Farooqi
 
 ### Frontend Developer · UI Enthusiast · Code Craftsman
 #### 📍 India &nbsp;|&nbsp; 🚀 Building **FarooqiHubble**
